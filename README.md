@@ -1,24 +1,17 @@
-# PacMen-Factory-Exercise
+## PacMen-Factory-Exercise
 This is a development exercise, in which you can put images of Pac-Man and you can see how they bounce off the edges of the screen.
 
+## How to Run
+
+*// una explicacion de como usar los botones del juego//
+
+## Roadmap of future improvements:
+En el futuro, se espera poder conseguir que al momento de hacer click en el boton de "crear pac-man", apareceran distintas imagenes alternadas de pac-man"
+NOTA: se deben pegar imagenes aqui????
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# MIT License
+## MIT License
 
 Copyright (c) 2021 David
 
