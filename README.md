@@ -8,8 +8,8 @@ Al abrir el documento index.html en algún navegador, se deben insertar imágene
 
 ![image](https://user-images.githubusercontent.com/87394787/133843500-2b9219a3-b78d-440c-b708-0972d9d26bca.png)
 
+![image](https://user-images.githubusercontent.com/87394787/133843894-36eaebcb-ccbe-4149-8e7e-8771f863b061.png)
 
-![image](https://user-images.githubusercontent.com/87394787/133843705-c33a48ec-da7a-4684-bd6f-2e7341d44986.png)
 
 
 ## Hoja de ruta de mejoras futuras:
