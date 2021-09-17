@@ -1,4 +1,7 @@
-## PacMen-Factory-Exercise
+
+## Titulo de este proyecto: PacMen-Factory-Exercise
+
+## Descripción del proyecto
 
 Este es un ejercicio de desarrollo, en el que puedes colocar imágenes de Pac-Man y poder ver cómo rebotan en los bordes de la pantalla.
 
