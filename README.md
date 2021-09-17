@@ -4,7 +4,7 @@ Este es un ejercicio de desarrollo, en el que puedes colocar imágenes de Pac-Ma
 
 ## Como hacerlo funcionar:
 
-Al abrir el documento index.html en algún navegador, se deben insertar imágenes de Pac-Man haciendo uso del botón “Add Pac-Man”. Luego de ello, podrás iniciar el movimiento de los Pac-Man insertados haciendo uso del botón “Start Game”.
+Se debe descargar todos los archivos de este repositorio y guardarlos en alguna carpeta en tu equipo. Posteriormente se debe ejecutar en algún navegador el archivo index.html. Luego se deben insertar imágenes de Pac-Man haciendo uso del botón “Add Pac-Man” y con ellos podrás iniciar el movimiento de los Pac-Man insertados haciendo uso del botón “Start Game”.
 
 ![image](https://user-images.githubusercontent.com/87394787/133843500-2b9219a3-b78d-440c-b708-0972d9d26bca.png)
 
