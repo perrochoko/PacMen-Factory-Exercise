@@ -1,15 +1,14 @@
 ## PacMen-Factory-Exercise
-This is a development exercise, in which you can put images of Pac-Man and you can see how they bounce off the edges of the screen.
 
-## How to Run
+Este es un ejercicio de desarrollo, en el que puedes colocar imágenes de Pac-Man y poder ver cómo rebotan en los bordes de la pantalla.
 
-*// una explicacion de como usar los botones del juego//
+## Como hacerlo funcionar:
 
-## Roadmap of future improvements:
-En el futuro, se espera poder conseguir que al momento de hacer click en el boton de "crear pac-man", apareceran distintas imagenes alternadas de pac-man"
-NOTA: se deben pegar imagenes aqui????
+Al abrir el documento index.html en algún navegador, se deben insertar imágenes de Pac-Man haciendo uso del botón “Add Pac-Man”. Luego de ello, podrás iniciar el movimiento de los Pac-Man insertados haciendo uso del botón “Start Game”.
 
+## Hoja de ruta de mejoras futuras:
 
+En el futuro se espera poder mejorar este juego, haciendo el uso de 4 imágenes en las que Pac-Man deberá abrir y cerrar su boca y a su vez deberá cambiar su sentido de mirada al momento que choque con los bordes izquierdos y derechos de la pantalla.
 
 ## MIT License
 
