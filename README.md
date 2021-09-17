@@ -6,6 +6,12 @@ Este es un ejercicio de desarrollo, en el que puedes colocar imágenes de Pac-Ma
 
 Al abrir el documento index.html en algún navegador, se deben insertar imágenes de Pac-Man haciendo uso del botón “Add Pac-Man”. Luego de ello, podrás iniciar el movimiento de los Pac-Man insertados haciendo uso del botón “Start Game”.
 
+![image](https://user-images.githubusercontent.com/87394787/133843500-2b9219a3-b78d-440c-b708-0972d9d26bca.png)
+
+
+![image](https://user-images.githubusercontent.com/87394787/133843705-c33a48ec-da7a-4684-bd6f-2e7341d44986.png)
+
+
 ## Hoja de ruta de mejoras futuras:
 
 En el futuro se espera poder mejorar este juego, haciendo el uso de 4 imágenes en las que Pac-Man deberá abrir y cerrar su boca y a su vez deberá cambiar su sentido de mirada al momento que choque con los bordes izquierdos y derechos de la pantalla.
